@@ -1,0 +1,4 @@
+[0316/100504.097:ERROR:cache_util_win.cc(20)] Unable to move the cache: アクセスが拒否されました。 (0x5)
+[0316/100504.097:ERROR:cache_util.cc(144)] Unable to move cache folder d:\譯井ｻｶ\蟾晏哨縺輔ｓ_繧ｹ繧ｯ繝ｬ繧､繝斐Φ繧ｰ繝�繝ｼ繝ｫ\test/user_data\Default\GPUCache to d:\譯井ｻｶ\蟾晏哨縺輔ｓ_繧ｹ繧ｯ繝ｬ繧､繝斐Φ繧ｰ繝�繝ｼ繝ｫ\test/user_data\Default\old_GPUCache_000
+[0316/100504.097:ERROR:disk_cache.cc(184)] Unable to create cache
+[0316/100504.098:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
